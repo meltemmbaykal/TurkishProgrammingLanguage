@@ -1,0 +1,10 @@
+calistir ap{}
+
+ tam b = 5;
+ tam a=0;
+
+   iken(a<50)[   
+      a=a+b;
+      yaz(a);
+ ]
+   

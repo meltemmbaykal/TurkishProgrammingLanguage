@@ -1,0 +1,19 @@
+calistir ap{}
+
+[ tam y;
+  tanimla(y,5);
+
+  tam x;
+  tanimla(x,3);
+
+  eger {y<x}[ 
+     (y kucuk)
+
+]
+
+  degilse[
+     (x kucuk)
+] 
+  
+don 0;
+ 

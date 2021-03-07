@@ -1,0 +1,16 @@
+calistir ap{}
+
+[ tam b;
+  tanimla(b,8);
+
+  noktali c;
+  tanimla(c,3);
+  noktali a;
+	
+
+  a=b*c;
+  yaz(a);
+
+
+don 0;
+]
